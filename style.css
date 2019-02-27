@@ -8,7 +8,7 @@
 }
 
 body {
-	font-family: 'raleway', ;
+	font-family: 'Cabin', Arial;
 	font-size: 14px;
 	font-weight: normal;
 	color: #474747;
@@ -18,10 +18,10 @@ body {
 
 figure {
 	position: relative;
-	float:right;
+	float: right;
 	width: 50%;
-	min-width: 400px;
-	margin-top: -120px;
+	min-width: 100px;
+	margin-top: -20px;
 }
 
 h1 {
@@ -34,7 +34,7 @@ h1 {
 }
 
 .title, .subtitle, .caption, .label, .legend, figure {
-	font-family: ruleway, serif;
+	font-family: baskerville, Arial;
 }
 
 .title, .subtitle, .label, .legend {
@@ -87,7 +87,7 @@ h1 {
 	}
 
 .canvas {
-	font-family: 'ZCOOL QingKe HuangYou', sans-serif;
+	font-family: 'Cabin', sans-serif;
  	font-size: 14px;
  	fill: #474747;
  	font-weight: normal;
@@ -104,15 +104,15 @@ h1 {
 }
 
 .disease {
-	fill: rgb(178,34,34);
+	fill: rgb(252,141,89);
 }
 
 .other {
-	fill: rgb(50,50,50);
+	fill: rgb(255,255,191);
 }
 
 .wounds {
-	fill: rgb(102,188,147);
+	fill: rgb(145,207,96);
 }
 
 .legend {
